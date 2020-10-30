@@ -1,5 +1,6 @@
 # Presepe
-Crib control unit with 6 analogue and 10 digital outputs con LCD e pulsanti
+Nativity scene control unit with 6 analogue and 10 digital outputs with LCD e button
+
 Troverai le spiegazioni nella prima parte dello sketch, il progetto prevede l'utilizzo di un LCD e di Pulsanti.
 Comandabile interamente dai pulsanti.
 
